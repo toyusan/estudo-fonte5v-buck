@@ -39,4 +39,4 @@ Contribuições são bem-vindas! Se você identificar melhorias, correções ou 
 
 ## Licença
 
-Este projeto é privado, e a cópia, reprodução ou distribuição sem autorização por escrito de seus autores é estritamente proibida
+Este projeto é licenciado sob a MIT License - consulte o arquivo LICENSE.md para obter detalhes.
